@@ -1,13 +1,13 @@
 # Site settings
-title: SellerMartrix Information Technology Co., Ltd.
-SEOTitle: SellerMartrix Information Technology Co., Ltd.
+title: Seller Martrix
+SEOTitle: Seller Martrix
 header-img: img/post-bg-desk.jpg
 email: renzhedj1984@gmail.com
 description: "SellerMartrix Information Technology Co., Ltd."
 keyword: "Amazon Seller Developer"
-url: "https://seller-martrix.github.io"          # your host, for absolute URL
+url: "https://renzhedj1984.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/renzhedj1984/seller-martrix.github.io.git" # you code repository
+github_repo: "https://enzhedj1984.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
